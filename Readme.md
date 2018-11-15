@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WebRequest/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WebRequest/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/WebRequest/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WebRequest/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize a web request for a map web service
 
 
